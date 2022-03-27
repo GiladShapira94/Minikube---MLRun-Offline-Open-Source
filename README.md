@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/100074049/160272315-ca505909-1000-4153-bfd2-70362e777336.png)
-# Minikube-MLRun-Offline-Open-Source
+# Minikube - MLRun Offline Open-Source
 This Repository Include all necessary step to use MLRun open source in offline mode in minikube platform
 
 # Installation Prerequisite
