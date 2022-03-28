@@ -14,6 +14,9 @@ This Repository Include all necessary steps to use MLRun open source in offline 
 5. Helm CLI is installed. Refer to the [Helm installation instructions](https://helm.sh/docs/intro/install/) for more information.
 
 6. Check that all necessary files are saved in your file system:
+   ````
+   git clone https://github.com/GiladShapira94/Minikube---MLRun-Offline-Open-Source.git
+   ````
     * All Images Directory - Folder that contain 26 images.
     * Images-loader.sh - Bash script that easily loads all images files from the All_Images directory.
     * mlrun-kit.tgz - Helm chart for the installation.
@@ -74,10 +77,15 @@ Example:
   * Nuclio - http://127.0.0.1:8070
   * MLRun UI - http://127.0.0.1
  
-10. Create a local registry for your nuclio functions:
-      ```
+10. Create a local registry for your nuclio functions (There are two option for this):
+      ````
       docker run -d -p 5000:5000 --restart=always --name registry registry:2
-      ```
+      ````
+      or
+      ````
+      kubectl create deployment --image=registry:2 registry -n mlrun 
+      kubectl expose deployment registry --type=LoadBalancer --port=5000 --name=registry -n mlrun
+      ````
 
 11. Run the demo file in the Demo folder - for your convenience save the CSV file in the data folder within jupyter
 
