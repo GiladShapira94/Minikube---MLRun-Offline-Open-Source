@@ -1,4 +1,4 @@
-busybox.tar-https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/busybox.tar
+busybox.tar - [Download link](https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/busybox.tar)
 handler-builder.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/handler-builder.tar
 jupyter-image.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/jupy.tar
 kaniko-project-executor.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/kaniko-project-executor.tar
