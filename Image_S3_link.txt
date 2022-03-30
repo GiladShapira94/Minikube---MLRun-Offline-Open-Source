@@ -1,0 +1,24 @@
+busybox.tar-https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/busybox.tar
+handler-builder.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/handler-builder.tar
+jupyter-image.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/jupy.tar
+kaniko-project-executor.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/kaniko-project-executor.tar
+mlrun-api-10.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mlrun-api-10.tar
+mlrun-api.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mlrun-api.tar
+mlrun-mlrun.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mlrun-mlrun.tar
+mlrun-ui-10.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mlrun-ui-10.tar
+mlrun-ui.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mlrun-ui.tar
+mpi-operator.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mpi-operator.tar
+muclio-autoscaler.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/muclio-autoscaler.tar
+muclio-dlx.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/muclio-dlx.tar
+mysql.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mysql.tar
+mysqld-exporter.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/mysqld-exporter.tar
+nfs-provisione.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/nfs-provisione.tar
+nuclio-controller.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/nuclio-controller.tar
+nuclio-controller1.7.11.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/nuclio-controller1.7.11.tar
+nuclio-dashboard-1.7.11-amd64.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/nuclio-dashboard-1.7.11-amd64.tar
+nuclio-dashboard-file.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/nuclio-dashboard-file.tar
+nuclio-dashboard.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/nuclio-dashboard.tar
+openpolicyagent-opa.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/openpolicyagent-opa.tar
+openpolicyagent-opa2.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/openpolicyagent-opa2.tar
+python.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/python.tar
+registry.tar - https://iguazio-public.s3.amazonaws.com/All_Images/All_Images/registry.tar
