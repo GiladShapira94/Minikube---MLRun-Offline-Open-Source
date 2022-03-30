@@ -17,7 +17,7 @@ This Repository Include all necessary steps to use MLRun open source in offline 
    ````
    git clone https://github.com/GiladShapira94/Minikube---MLRun-Offline-Open-Source.git
    ````
-    * All Images Directory - Folder that contain 26 images.
+    * All Images Directory - Folder that contain 26 images (Download them from the Images_S3_Link file and save them under direcotry named All_Images).
     * Images-loader.sh - Bash script that easily loads all images files from the All_Images directory.
     * mlrun-kit.tgz - Helm chart for the installation.
     * Demo Directory - includes three code examples and one CSV file.
